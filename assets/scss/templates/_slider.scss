@@ -14,21 +14,18 @@
   }
 
   .block {
-    color: #E3E3E4;
-    text-align: center;
+    color: $light;
+    text-align: left;
 
     h1 {
-      font-weight: 100;
-      font-size: 45px;
-      line-height: 60px;
-      letter-spacing: 10px;
+      font-weight: 500;
+      font-size: 65px;
       padding-bottom: 15px;
-      text-transform: uppercase;
     }
 
     p {
       margin-bottom: 30px;
-      color: #b9b9b9;
+      color: $light;
       font-size: 18px;
       line-height: 27px;
       font-weight: 300;
