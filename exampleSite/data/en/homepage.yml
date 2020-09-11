@@ -3,39 +3,26 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Start With Your Team.
+  title: Supercharge Your Teams
   content: DeployOps takes holistic approach to your team development.<br>We don't
-    supply skills. We build and deploy strong and long-lasting <br> teams where everyone
-    can reach their full potential.
+    supply CVs. We build high-performing technical teams that last.
   button:
     enable: true
     label: Get Started
-    link: project
+    link: contact
 about:
   enable: true
-  title: Retention, Efficiency & Innovation
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: Performance
+  description: Team culture that optimizes for information flow, trust, innovation, and risk-sharing is predictive of performance
+  content: A culture of psychological safety contributes to performance, organizational performance,
+and productivity, showing that growing and fostering a healthy culture reaps benefits for organizations and individuals.
   image: images/wrapper-img.png
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: We Believe In Great Teams
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Productivity
+  content: High performing teams favor strategies that create community structures at both low and high levels in the organization likely making them more sustainable and resilient to reorgs and product changes.
+Those teams need a culture of trust and psychological safety, meaningful work, and clarity. This team environment allows members to take calculated and moderate risks, speak up, and be more creative.
   button:
     enable: false
     label: View Works
@@ -45,33 +32,29 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Improve your technology delivery and deliver value
+  content: The highest performers are twice as likely to meet or exceed their organizational performance goals.
   button:
     enable: true
     label: Tell Us Your Story
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Elite Team Performers
+  description: "Comparing the elite group against the low performers, we find that elite performers have:"
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-ios-cloud-upload-outline
+    name: x more frequent code deployments
+    count: "208"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: x faster lead time from commit to deploy
+    count: "106"
+  - icon: ion-ios-flame-outline
+    name: x lower time to recover from incidents
+    count: "2,604"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: x lower time to recover from change failures
+    count: "7"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
