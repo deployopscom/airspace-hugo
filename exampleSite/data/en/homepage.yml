@@ -14,15 +14,13 @@ about:
   enable: true
   title: Performance
   description: Team culture that optimizes for information flow, trust, innovation, and risk-sharing is predictive of performance
-  content: A culture of psychological safety contributes to performance, organizational performance,
-and productivity, showing that growing and fostering a healthy culture reaps benefits for organizations and individuals.
+  content: A culture of psychological safety contributes to performance, organizational performance, and productivity, showing that growing and fostering a healthy culture reaps benefits for organizations and individuals.
   image: images/wrapper-img.png
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: Productivity
-  content: High performing teams favor strategies that create community structures at both low and high levels in the organization likely making them more sustainable and resilient to reorgs and product changes.
-Those teams need a culture of trust and psychological safety, meaningful work, and clarity. This team environment allows members to take calculated and moderate risks, speak up, and be more creative.
+  content: High performing teams favor strategies that create community structures at both low and high levels in the organization likely making them more sustainable and resilient to reorgs and product changes. Those teams need a culture of trust and psychological safety, meaningful work, and clarity. This team environment allows members to take calculated and moderate risks, speak up, and be more creative.
   button:
     enable: false
     label: View Works
