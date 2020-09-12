@@ -14,7 +14,7 @@ about:
   enable: true
   title: Performance
   description: Team culture that optimizes for information flow, trust, innovation, and risk-sharing is predictive of performance
-  content: A culture of psychological safety contributes to performance, organizational performance, and productivity, showing that growing and fostering a healthy culture reaps benefits for organizations and individuals.
+  content: A culture of psychological safety contributes to performance, organizational performance, and productivity, showing that growing and fostering a healthy teams reaps benefits for organizations and individuals. DeployOps provides mentorship and tools to teams and leadership nurturing healthy culture that leads to high performance.
   image: images/wrapper-img.png
 portfolio:
   enable: true
@@ -38,37 +38,18 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Elite Team Performers
-  description: "Comparing the elite group against the low performers, we find that elite performers have:"
+  title: Elite Teams
+  description: "Comparing the elite group against the low performers, the elite performers have:"
   funfact_item:
   - icon: ion-ios-cloud-upload-outline
     name: x more frequent code deployments
     count: "208"
-  - icon: ion-ios-glasses-outline
+  - icon: ion-ios-timer-outline
     name: x faster lead time from commit to deploy
     count: "106"
   - icon: ion-ios-flame-outline
     name: x lower time to recover from incidents
-    count: "2,604"
-  - icon: ion-ios-timer-outline
+    count: "2604"
+  - icon: ion-wrench
     name: x lower time to recover from change failures
     count: "7"
-  testimonial_slider:
-  - name: Raymond Roy
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
-    image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
