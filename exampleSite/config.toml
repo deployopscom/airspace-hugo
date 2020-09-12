@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "DeployOps.com"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved. Research is based on State of DevOps Report by DORA (DevOps Reasearch & Assessment) & Google Cloud."
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved. <br> Based on State of DevOps Report by DORA (DevOps Reasearch & Assessment) & Google Cloud."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
