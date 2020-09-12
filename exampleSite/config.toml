@@ -7,10 +7,14 @@ theme = "airspace-hugo"
 title = "DeployOps.com"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved. Research is based on State of DevOps Report by DORA (DevOps Reasearch & Assessment) & Google Cloud."
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+[[Languages.en.menu.footer]]
+URL = "/"
+name = "Home"
+weight = 2
 [[Languages.en.menu.footer]]
 URL = "service"
 name = "Service"
@@ -18,7 +22,7 @@ weight = 3
 [[Languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 4
 [[Languages.en.menu.main]]
 URL = "/"
 name = "Home"
@@ -26,11 +30,11 @@ weight = 1
 [[Languages.en.menu.main]]
 URL = "service"
 name = "Service"
-weight = 4
+weight = 2
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 3
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
@@ -43,7 +47,7 @@ email = "hello@deployops.com"
 google_analitycs_id = ""
 location = "Berlin, Germany"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "15208276300"
 multi_author = false
 [params.gmap]
 enable = false

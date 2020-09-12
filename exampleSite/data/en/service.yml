@@ -40,7 +40,7 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "DeployOps provides continuous guidance so you can focus on the capabilities and practices that matter
+  description : "DeployOps provides continuous guidance so you can focus on <br> the capabilities and practices that matter
 to accelerate your transformation."
   service_item:
     # service item loop
@@ -76,12 +76,12 @@ to accelerate your transformation."
     # service item loop
     - icon : ion-code-working #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Technical Practices
-      content: "Support continuous integration, automated testing, disaster recovery testing, etc."
+      content: "Support continuous integration, automated testing, disaster recovery testing, and more."
 
     # service item loop
     - icon : ion-cloud #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Cloud Adoption
-      content: "The use of cloud is predictive of software delivery performance and availability."
+      content: "The use of cloud is predictive of software delivery performance and availability. Learn how to become cloud native."
       
 ############################# call to action #################################
 cta:
