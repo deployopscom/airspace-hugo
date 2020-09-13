@@ -41,10 +41,10 @@ unsafe = true
 home = ["HTML", "RSS"]
 [params]
 author = "DeployOps"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/contact@deployops.com"
 description = "Start with your team"
-email = "hello@deployops.com"
-google_analitycs_id = ""
+email = "contact@deployops.com"
+google_analitycs_id = "UA-67874206-5"
 location = "Berlin, Germany"
 logo = "images/logo.png"
 mobile = "15208276300"
@@ -84,18 +84,9 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-# [[params.social]]
-# icon = "ion-social-googleplus-outline"
-# link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "https://linkedin.com/company/deployops"
-# [[params.social]]
-# icon = "ion-social-pinterest-outline"
-# link = "#"
-# [[params.social]]
-# icon = "ion-social-dribbble-outline"
-# link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "http://twitter.com/deployops"
