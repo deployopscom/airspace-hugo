@@ -13,14 +13,23 @@ banner:
 about:
   enable: true
   title: Performance
-  description: Team culture that optimizes for information flow, trust, innovation, and risk-sharing is predictive of performance
-  content: A healthy culture contributes to performance, organizational performance, and productivity, showing that growing and fostering a healthy teams reaps benefits for organizations and individuals. DeployOps provides mentorship and tools for teams and leadership nurturing healthy culture, technical and organizational practices that lead to high performance.
+  description: Team culture that optimizes for information flow, trust, innovation,
+    and risk-sharing is predictive of performance
+  content: A healthy culture contributes to performance, organizational performance,
+    and productivity, showing that growing and fostering a healthy teams reaps benefits
+    for organizations and individuals. DeployOps provides mentorship and tools for
+    teams and leadership nurturing healthy culture, technical and organizational practices
+    that lead to high performance.
   image: images/wrapper-img.png
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: Productivity
-  content: High performing teams favor strategies that create community structures at both low and high levels in the organization likely making them more sustainable and resilient to reorgs and product changes. Those teams need a culture of trust and psychological safety, meaningful work, and clarity. This team environment allows members to take calculated and moderate risks, speak up, and be more creative.
+  content: High performing teams favor strategies that create community structures
+    at both low and high levels in the organization likely making them more sustainable
+    and resilient to reorgs and product changes. Those teams need a culture of trust
+    and psychological safety, meaningful work, and clarity. This team environment
+    allows members to take calculated and moderate risks, speak up, and be more creative.
   button:
     enable: false
     label: View Works
@@ -31,7 +40,8 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: Improve your technology delivery and deliver value
-  content: The highest performers are twice as likely to meet or exceed their organizational performance goals.
+  content: The highest performers are twice as likely to meet or exceed their organizational
+    performance goals.
   button:
     enable: true
     label: Tell Us Your Story
@@ -39,7 +49,8 @@ cta:
 funfacts:
   enable: true
   title: Build Elite Teams
-  description: "Comparing the elite group against the low performers, the elite performers have:"
+  description: 'Comparing the elite group against the low performers, research by
+    DORA found the elite performers have:'
   funfact_item:
   - icon: ion-ios-cloud-upload-outline
     name: TIMES more frequent code deployments
@@ -57,17 +68,38 @@ funfacts:
   - name: Dr. Nicole Forsgren
     image: images/clients/nicole.png
     designation: Google Cloud
-    content: "leads the DORA team, now with Google Cloud. She has led the largest studies of DevOps to date, as the principal investigator on the State of DevOps Reports for the past six years and lead author on the Shingo Publication Award-winning book Accelerate: The Science of Lean Software and DevOps. She has been a professor, sysadmin, and performance engineer. Nicole’s work has been published in several peer-reviewed journals. Nicole earned her PhD in Management Information Systems from the University of Arizona."
+    content: 'leads the DORA team, now with Google Cloud. She has led the largest
+      studies of DevOps to date, as the principal investigator on the State of DevOps
+      Reports for the past six years and lead author on the Shingo Publication Award-winning
+      book Accelerate: The Science of Lean Software and DevOps. She has been a professor,
+      sysadmin, and performance engineer. Nicole’s work has been published in several
+      peer-reviewed journals. Nicole earned her PhD in Management Information Systems
+      from the University of Arizona.'
   - name: Dr. Dustin Smith
     image: images/clients/dustin.png
     designation: Google
-    content: "is a human factors psychologist and senior user experience researcher at Google. He has studied how people are affected by the systems and environments around them in a variety of contexts: software engineering, free-to-play gaming, healthcare, and military. His research at Google has emphasized identifying areas where software developers can feel happier and more productive during development. Dustin received his PhD in Human Factors Psychology from Wichita State University."
+    content: 'is a human factors psychologist and senior user experience researcher
+      at Google. He has studied how people are affected by the systems and environments
+      around them in a variety of contexts: software engineering, free-to-play gaming,
+      healthcare, and military. His research at Google has emphasized identifying
+      areas where software developers can feel happier and more productive during
+      development. Dustin received his PhD in Human Factors Psychology from Wichita
+      State University.'
   - name: Jez Humble
     image: images/clients/jez.png
     designation: Google Cloud & UC Berkeley
-    content: "Jez Humble is co-author of several books on software including Shingo Publication Award winner Accelerate, The DevOps Handbook, Lean Enterprise,
-and the Jolt Award-winning Continuous Delivery. He has spent his career tinkering with code, infrastructure, and product development in companies of varying sizes across three continents. He works for Google Cloud as a technology advocate, and teaches at UC Berkeley."
+    content: Jez Humble is co-author of several books on software including Shingo
+      Publication Award winner Accelerate, The DevOps Handbook, Lean Enterprise, and
+      the Jolt Award-winning Continuous Delivery. He has spent his career tinkering
+      with code, infrastructure, and product development in companies of varying sizes
+      across three continents. He works for Google Cloud as a technology advocate,
+      and teaches at UC Berkeley.
   - name: Jessie Frazelle
     image: images/clients/jessie.png
     designation: Former Google, Microsoft, and GitHub
-    content: "is an independent consultant. She’s been an engineer at various startups as well as Google, Microsoft, and GitHub. She’s observed a lot of different development and infrastructure practices by working on the tools themselves, including Docker and Kubernetes, and by also being an end user of various PaaS. She likes to see things from all perspectives, jumping back and forth from developing tools to using them in production."
+    content: is an independent consultant. She’s been an engineer at various startups
+      as well as Google, Microsoft, and GitHub. She’s observed a lot of different
+      development and infrastructure practices by working on the tools themselves,
+      including Docker and Kubernetes, and by also being an end user of various PaaS.
+      She likes to see things from all perspectives, jumping back and forth from developing
+      tools to using them in production.
