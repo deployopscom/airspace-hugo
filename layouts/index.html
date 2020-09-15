@@ -61,9 +61,10 @@
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
-        {{ .content | markdownify }}
+        <p>{{ .content | markdownify }}
         {{ if .button.enable }}
         {{ with .button }}
+        </p>
         <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
         {{ end }}
         {{ end }}

@@ -9,18 +9,9 @@
 	background-size: cover;
 	padding: 100px 0;
 
-	h2 {
-		margin-bottom: 30px;
-	}
-
-	p {
-		color: #8d8f92;
-		margin-bottom: 20px;
-	}
-
 	.btn-view-works {
-		background: #655E7A;
-		color: #fff;
+		background: $primary-color;
+		color: $light;
 		padding: 10px 20px;
 	}
 }
